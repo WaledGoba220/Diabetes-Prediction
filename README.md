@@ -1,7 +1,7 @@
 # Diabetes Prediction
-Diabetes Prediction Web Apping Streamlit
+Diabetes Prediction Web App using Streamlit
 
 
 <br>
 <br>
-<img src="https://pharmaceuticalintelligence.com/wp-content/uploads/2021/05/machine-learning-in-healthcare-1-768x402-1.jpg" alt="Hello world">
+<img src="https://editor.analyticsvidhya.com/uploads/30738medtec-futuristic-650.jpg" alt="Hello world">
